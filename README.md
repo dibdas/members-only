@@ -27,7 +27,7 @@ In this project, We built an exclusive clubhouse where  members can write anonym
 - Linkedin: [@Uduak John](https://www.linkedin.com/in/juduak/)
 
 👤 **Dibyendu Das**
-- Github: [@IjayAbby](https://github.com/IjayAbby)
+- Github: [@dibdas](https://github.com/dibdas)
 - Twitter: [@dibyend78120480](https://twitter.com/dibyend78120480)
 - Linkedin: [Dibyendu Das](https://www.linkedin.com/in/dibdas/)
 
