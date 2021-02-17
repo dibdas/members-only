@@ -41,4 +41,4 @@ In this project, We built an exclusive clubhouse where  members can write anonym
 
 ## License
 
-[MIT](https://github.com/Murodjon000/newsweek-clone/blob/master/LICENSE) licensed software.
+[MIT]licensed software.
